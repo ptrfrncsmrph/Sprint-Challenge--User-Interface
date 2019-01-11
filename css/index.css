@@ -208,6 +208,13 @@ p {
   border-bottom: 1px dashed black;
 }
 
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: none;
+}
+
 .middle-content h2 {
   padding: 0 2%;
   margin-bottom: 0;
@@ -271,6 +278,10 @@ p {
 
 .boxes .box:nth-of-type(10) {
   background: dodgerblue;
+}
+
+.card {
+  width: min-content;
 }
 
 .bottom-content {
