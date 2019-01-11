@@ -34,9 +34,19 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+> Semantic HTML describes a set of markup elements that were introduced in the HTML5 spec to give websites a more meaningful structure. For instance, instead of having an unordered list of `<a>` anchor tags for navigating around your site, it conveys more meaning to wrap those links inside of a `nav` element. This also helps make a website more accessible to screen-readers and to web crawlers used by search engines.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+> Elements with `display: block` will "clear" the following elements in the document, effectively taking up 100% of the width of the document. Elements with `display: inline` do not respect any `height` values assigned to them.
+
 3. What are the 4 areas of the box model?
+
+> The four areas of the box model, from inner to outer, are
+    1. Content
+    2. Padding
+    3. Border
+    4. Margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
@@ -94,7 +104,7 @@ You will also notice there are 10 boxes on the home page that need background co
 * [X] Copy and paste your home page navigation and header into the about page
 * [X] Update the header image with the about page image
 * [X] Link the `Home` navigation item back to the `index.html` page.
-* [ ] Build the rest of the about page layout to match the design
+* [X] Build the rest of the about page layout to match the design
 
 In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
