@@ -34,15 +34,15 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-> Semantic HTML describes a set of markup elements that were introduced in the HTML5 spec to give websites a more meaningful structure. For instance, instead of having an unordered list of `<a>` anchor tags for navigating around your site, it conveys more meaning to wrap those links inside of a `nav` element. This also helps make a website more accessible to screen-readers and to web crawlers used by search engines.
+Semantic HTML describes a set of markup elements that were introduced in the HTML5 spec to give websites a more meaningful structure. For instance, instead of having an unordered list of `<a>` anchor tags for navigating around your site, it conveys more meaning to wrap those links inside of a `nav` element. This also helps make a website more accessible to screen-readers and to web crawlers used by search engines.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-> Elements with `display: block` will "clear" the following elements in the document, effectively taking up 100% of the width of the document. Elements with `display: inline` do not respect any `height` values assigned to them.
+Elements with `display: block` will "clear" the following elements in the document, effectively taking up 100% of the width of the document. Elements with `display: inline` do not respect any `height` values assigned to them.
 
 3. What are the 4 areas of the box model?
 
-> The four areas of the box model, from inner to outer, are
+The four areas of the box model, from inner to outer, are
     1. Content
     2. Padding
     3. Border
