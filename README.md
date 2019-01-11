@@ -43,10 +43,10 @@ Elements with `display: block` will "clear" the following elements in the docume
 3. What are the 4 areas of the box model?
 
 The four areas of the box model, from inner to outer, are
-    1. Content
-    2. Padding
-    3. Border
-    4. Margin
+  1. Content
+  2. Padding
+  3. Border
+  4. Margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
