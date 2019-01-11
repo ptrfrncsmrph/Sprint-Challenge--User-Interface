@@ -42,15 +42,15 @@ Elements with `display: block` will "clear" the following elements in the docume
 
 3. What are the 4 areas of the box model?
 
-The four areas of the box model, from inner to outer, are
-  1. Content
-  2. Padding
-  3. Border
-  4. Margin
+The four areas of the box model, from inner to outer, are: content, padding, border, margin.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git enables a team of developers to contribute to the same codebase in a systematic way. By controlling _how_ different branches and copies of a repository are merged, and tracking changes to those various versions of the repo, the team can ensure that work will not be unintentionally destroyed or over-written.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
