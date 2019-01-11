@@ -212,6 +212,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  margin-top: 1.75rem;
   border: none;
 }
 
@@ -304,6 +305,10 @@ p {
   display: flex;
   margin: 0 2% 20px;
   justify-content: space-around;
+}
+
+.about-page .bottom-content {
+  margin-bottom: 2rem;
 }
 
 .bottom-content .text-container {
