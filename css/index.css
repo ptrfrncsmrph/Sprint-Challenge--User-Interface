@@ -166,7 +166,7 @@ p {
 
 .top-nav-container {
   display: flex;
-  margin: 1rem 0 3rem;
+  margin: 1rem 0 2rem;
 }
 
 .top-nav {
@@ -179,6 +179,10 @@ p {
 .top-nav a {
   color: black;
   text-decoration: none;
+}
+
+.jumbo {
+  margin-bottom: 1rem;
 }
 
 .top-content {
