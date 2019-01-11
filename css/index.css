@@ -283,6 +283,9 @@ p {
 }
 
 .card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   width: calc(50% - 1rem);
   border-bottom: 1px dashed black;
   margin-bottom: 2rem;
