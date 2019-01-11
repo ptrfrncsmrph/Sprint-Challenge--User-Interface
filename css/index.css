@@ -214,6 +214,7 @@ p {
   justify-content: space-around;
   margin-top: 1.75rem;
   border: none;
+  padding: 0;
 }
 
 .middle-content h2 {
@@ -282,7 +283,7 @@ p {
 }
 
 .card {
-  width: min-content;
+  width: calc(50% - 1rem);
   border-bottom: 1px dashed black;
   margin-bottom: 2rem;
 }
